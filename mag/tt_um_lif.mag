@@ -1,7 +1,13 @@
 magic
 tech sky130A
 magscale 1 2
+<<<<<<< HEAD
 timestamp 1713437673
+=======
+timestamp 1713438817
+<< nwell >>
+rect 18679 4246 19528 4270
+>>>>>>> d91cb2988effe7e4f0e56e7a27fb6a110da9f303
 << poly >>
 rect 17016 4436 17147 4515
 << locali >>
@@ -9,6 +15,8 @@ rect 17016 4502 17147 4515
 rect 17016 4449 17063 4502
 rect 17134 4449 17147 4502
 rect 17016 4436 17147 4449
+rect 20354 4441 20358 4474
+rect 20245 4440 20400 4441
 << viali >>
 rect 17063 4449 17134 4502
 << metal1 >>
@@ -187,7 +195,11 @@ rect 26896 0 27016 330
 rect 31298 324 31452 356
 rect 31312 0 31432 324
 use leakylayout  leakylayout_0
+<<<<<<< HEAD
 timestamp 1713437673
+=======
+timestamp 1713438817
+>>>>>>> d91cb2988effe7e4f0e56e7a27fb6a110da9f303
 transform 1 0 17598 0 1 2800
 box -6156 -1308 3342 3488
 << labels >>

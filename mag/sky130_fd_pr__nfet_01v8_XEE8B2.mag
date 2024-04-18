@@ -1,6 +1,6 @@
 magic
 tech sky130A
-timestamp 1713437673
+
 << error_p >>
 rect -38 -100 -9 100
 rect 9 -100 38 100

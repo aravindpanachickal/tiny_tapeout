@@ -1,9 +1,9 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1713435522
+timestamp 1713438817
 << nwell >>
-rect 18679 4227 19528 4270
+rect 18679 4246 19528 4270
 << poly >>
 rect 17016 4436 17147 4515
 << locali >>
@@ -191,9 +191,9 @@ rect 26896 0 27016 330
 rect 31298 324 31452 356
 rect 31312 0 31432 324
 use leakylayout  leakylayout_0
-timestamp 1713435522
+timestamp 1713438817
 transform 1 0 17598 0 1 2800
-box -6357 -1308 3342 3486
+box -6156 -1308 3342 3488
 << labels >>
 flabel metal4 s 30974 44952 31034 45152 0 FreeSans 480 90 0 0 clk
 port 0 nsew signal input

@@ -1,7 +1,16 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1713423194
+timestamp 1713444181
+<< error_s >>
+rect 17196 4385 17596 4393
+<< nwell >>
+rect 18824 4446 19472 4455
+<< psubdiff >>
+rect 17196 4374 17596 4393
+rect 18025 4299 18326 4306
+<< nsubdiff >>
+rect 18824 4446 19472 4455
 << poly >>
 rect 17016 4436 17147 4515
 << locali >>
@@ -9,6 +18,9 @@ rect 17016 4502 17147 4515
 rect 17016 4449 17063 4502
 rect 17134 4449 17147 4502
 rect 17016 4436 17147 4449
+rect 18824 4446 19472 4455
+rect 17196 4374 17596 4393
+rect 18025 4299 18326 4306
 << viali >>
 rect 17063 4449 17134 4502
 << metal1 >>
@@ -186,10 +198,10 @@ rect 31424 356 31452 428
 rect 26896 0 27016 330
 rect 31298 324 31452 356
 rect 31312 0 31432 324
-use leakylayout  leakylayout_0 ~/now
-timestamp 1713423194
+use leakylayout  leakylayout_0
+timestamp 1713444181
 transform 1 0 17598 0 1 2800
-box -6156 -2397 3342 3488
+box -6156 -1308 3342 3488
 << labels >>
 flabel metal4 s 30974 44952 31034 45152 0 FreeSans 480 90 0 0 clk
 port 0 nsew signal input

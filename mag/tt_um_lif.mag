@@ -1,6 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
+<<<<<<< HEAD
 timestamp 1713444181
 << error_s >>
 rect 17196 4385 17596 4393
@@ -11,6 +12,15 @@ rect 17196 4374 17596 4393
 rect 18025 4299 18326 4306
 << nsubdiff >>
 rect 18824 4446 19472 4455
+=======
+<<<<<<< HEAD
+timestamp 1713437673
+=======
+timestamp 1713438817
+<< nwell >>
+rect 18679 4246 19528 4270
+>>>>>>> d91cb2988effe7e4f0e56e7a27fb6a110da9f303
+>>>>>>> 04dd4df00c63c1c6da9458b1f8e3d1dbbf4a0f72
 << poly >>
 rect 17016 4436 17147 4515
 << locali >>
@@ -18,9 +28,14 @@ rect 17016 4502 17147 4515
 rect 17016 4449 17063 4502
 rect 17134 4449 17147 4502
 rect 17016 4436 17147 4449
+<<<<<<< HEAD
 rect 18824 4446 19472 4455
 rect 17196 4374 17596 4393
 rect 18025 4299 18326 4306
+=======
+rect 20354 4441 20358 4474
+rect 20245 4440 20400 4441
+>>>>>>> 04dd4df00c63c1c6da9458b1f8e3d1dbbf4a0f72
 << viali >>
 rect 17063 4449 17134 4502
 << metal1 >>
@@ -199,7 +214,15 @@ rect 26896 0 27016 330
 rect 31298 324 31452 356
 rect 31312 0 31432 324
 use leakylayout  leakylayout_0
+<<<<<<< HEAD
 timestamp 1713444181
+=======
+<<<<<<< HEAD
+timestamp 1713437673
+=======
+timestamp 1713438817
+>>>>>>> d91cb2988effe7e4f0e56e7a27fb6a110da9f303
+>>>>>>> 04dd4df00c63c1c6da9458b1f8e3d1dbbf4a0f72
 transform 1 0 17598 0 1 2800
 box -6156 -1308 3342 3488
 << labels >>
